@@ -3,7 +3,8 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>br.com.easyit</groupId>
 	<artifactId>ordersystem</artifactId>
-	<packaging>jar</packaging>
+	<!-- <packaging>jar</packaging> -->
+	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
 	<name>Ordersystem Maven Webapp</name>
 	<url>http://maven.apache.org</url>
